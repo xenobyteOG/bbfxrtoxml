@@ -1,6 +1,6 @@
 # bbfxrtoxml
 A start on converting BloodBorne FXR to XML
-S0 here we go. First off, I have to say that none of this would have happened without the geuius that is Stones! He came to me a said, "hey, I bet we can figure out how to convert the BB FXR sfx files to XML." I said, sure, I'm game. Little did I know it would take up hours of our times. Stones is one who actually coded this, I mainly stared at the FXR files in a hex editor for days on end deciphering what offset did what and where it went to. Stoney was the person who did the actual coding. Unfortunately, as real life often does, it came crashing in and we decided to release what we have since Stones has to take care of real life stuff and we wish him the best, and, well, I can't code!
+S0 here we go. First off, I have to say that none of this would have happened without the genius that is Stones! He came to me a said, "hey, I bet we can figure out how to convert the BB FXR sfx files to XML." I said, sure, I'm game. Little did I know it would take up hours of our times. Stones is one who actually coded this, I mainly stared at the FXR files in a hex editor for days on end deciphering what offset did what and where it went to. Stoney was the person who did the actual coding. Unfortunately, as real life often does, it came crashing in and we decided to release what we have since Stones has to take care of real life stuff and we wish him the best, and, well, I can't code!
 
 First off let me say I don't code and I've never made a Github Repo before so if it's wrong, let me know and I apologize.
 
