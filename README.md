@@ -4,7 +4,7 @@ S0 here we go. First off, I have to say that none of this would have happened wi
 
 First off let me say I don't code and I've never made a Github Repo before so if it's wrong, let me know and I apologize.
 
-You can find the information inside the index.js file, but I will sum it up here also. To use this program, go into the folder wherever the unpacked frpg_sfxbnd_commoneffects-ffxbnd-dcx folder is and then create the output folder in the same folder which is output/sfx/effect and then use the javascriptnode download to run "node index.js" (or whatever you use to run javaript) and it will create and entire folder in output/sfx/effect with files of all the FXRs that look like this inside (only peices to keep it from spamming 10000 lines) If you need a primer on what an FXR file is like inside, check here: http://soulsmodding.wikidot.com/tutorial:ffx-files-for-sfx-explained
+You can find the information inside the index.js file, but I will sum it up here also. To use this program, go into the folder wherever the unpacked frpg_sfxbnd_commoneffects-ffxbnd-dcx folder is and then create the output folder in the same folder which is output/sfx/effect and then use the javascriptnode download to run "node index.js" (or whatever you use to run javascript) and it will create and entire folder in output/sfx/effect with files of all the FXRs that look like this inside (only peices to keep it from spamming 10000 lines) If you need a primer on what an FXR file is like inside, check here: http://soulsmodding.wikidot.com/tutorial:ffx-files-for-sfx-explained
 
 {
   "Meta": {
