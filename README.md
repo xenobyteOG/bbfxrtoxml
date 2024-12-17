@@ -157,12 +157,19 @@ The above is the header information produced in all FXR files when this tool con
 The above is the bulk of the rest of the file, which is the actual structure of the FXR file as best as we could decode it. Here is the information on the offsets used just so you don't have to go digging into the .js file (all offsets in decimal):
 
 0 just says its a FXR file
+
 4 says is V2 (BB)
+
 8 is an offset to the root element
+
 12 is nothing (always 0)
+
 16 is an offset to a list of all the offsets contained in the file
+
 20 is a count of how many offsets are in the file
+
 24 is a count of how many elements are in the file (edited)
+
 
 All FXR files seem to have the elements in the same order, 133 and 134 are root effect constructors, and it looks like the elements are similar or the same to the ones in Dark Souls 1 (if you check the tool at https://github.com/JeNoVaViRuS/FXMLR_upload/releases/tag/FXMLR for DS1, we pretty sure the template for those elements are damn close if not the same as the ones used in BB)
 
