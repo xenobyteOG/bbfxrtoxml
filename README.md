@@ -40,7 +40,6 @@ You can find the information inside the index.js file, but I will sum it up here
 .........
 The above lists how many of each element appear in the FXR file.
 
-
 "All Offsets": [
       48,
       392,
@@ -69,9 +68,10 @@ The above lists how many of each element appear in the FXR file.
     "proxyType": 1,
     "proxyOffset": 4144
   },
-......
+................
+The above is the header information produced in all FXR files when this tool converts.
 
- "Root Element": {
+"Root Element": {
     "elementType": 133,
     "elementOffset": 48,
     "elementData": {
@@ -105,8 +105,13 @@ The above lists how many of each element appear in the FXR file.
           }
         }
       ]
-    }
+     }
   },
+  ...................
+  The above is the Effect Constructor start and it's root element information
+
+
+  
   "Elements": [
     {
       "elementType": 133,
